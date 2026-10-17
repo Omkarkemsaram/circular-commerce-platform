@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+backend/node_modules/
+frontend/node_modules/
+backend/.env
+frontend/.env
+backend/dist/
+frontend/dist/
+cloudfront-*.json
+last 100 logs.txt
+*.log
+backend/.elasticbeanstalk/app_versions/
+backend/.elasticbeanstalk/logs/
+.DS_Store
+powershell.cmd
